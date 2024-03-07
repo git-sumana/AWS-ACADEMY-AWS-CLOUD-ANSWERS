@@ -1,21 +1,5 @@
-Home
-Aws
-AWS Academy Cloud Foundation Module 5 Quiz Answers
-by
-study2night
--
-May 20, 2023
-0
-Hey Folks, In this article we are going to see about the AWS Academy Cloud Foundation answers of Module 5. This Module 5 Contains about the networking and content delivery which plays a pivotal role in enabling seamless communication and access to online resources.
-
-Whether you're browsing the web, streaming your favorite shows, or engaging with cloud services, understanding the fundamental concepts behind networking and content delivery is essential. In this blog post, we'll embark on a journey to explore the foundations of these technologies, unravel their intricacies, and highlight their significance in our digital landscape.
-
-Read More:  AWS Cloud Foundation Module 4 Answers 
-
-AWS Academy Cloud Foundation Module 5 Quiz Answers
-
-
 AWS Academy Cloud Foundation Module 5 Quiz Answers 
+
 Q1. Which AWS networking service enables a company to create a virtual network within AWS
 
 A. AWS Config
